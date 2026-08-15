@@ -12,13 +12,18 @@ The wallpaper brings together the failure function of Knuth–Morris–Pratt ove
 omarchy theme install https://github.com/VictorBitancourt/omarchy-san-serriffe-theme
 ```
 
-San Serriffe is designed to pair with **Latin Modern Mono**, the modernized and extended descendant of Knuth's Computer Modern typeface:
+San Serriffe is designed to pair with **Latin Modern Mono**, the modernized and extended descendant of Knuth's Computer Modern typeface. Install the TeX Live font package, expose its OpenType files to Fontconfig, and select it through Omarchy:
 
 ```sh
+sudo pacman -S texlive-fontsrecommended
+mkdir -p ~/.local/share/fonts/latin-modern
+find /usr/share/texmf-dist/fonts/opentype/public/lm -maxdepth 1 -type f -name '*.otf' \
+  -exec ln -sf {} ~/.local/share/fonts/latin-modern/ \;
+fc-cache -f
 omarchy font set "Latin Modern Mono"
 ```
 
-The font is recommended, but not required. Omarchy applies the theme's colors to supported applications using its native Quattro templates.
+The font is recommended, but not required to use the theme. Omarchy applies the theme's colors to supported applications using its native Quattro templates.
 
 ## Palette
 
