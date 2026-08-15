@@ -4,8 +4,6 @@ An academic, warm-light theme for [Omarchy](https://omarchy.org), inspired by Do
 
 The wallpaper brings together the failure function of Knuth–Morris–Pratt over `ABRACADABRA` and an original constructed **Q** inspired by METAFONT's visual language and glyph-design process. It is not a reproduction of a METAFONT or Computer Modern glyph. The palette uses cream paper, dark ink, and restrained editorial red.
 
-![San Serriffe desktop](preview.png)
-
 ## Wallpaper
 
 ![San Serriffe KMP and constructed Q wallpaper](backgrounds/01-kmp-metafont.png)
@@ -58,8 +56,6 @@ The font is recommended, but not required to use the theme. Omarchy applies the 
 - Donald E. Knuth, *The Art of Computer Programming*
 - Donald E. Knuth, *The METAFONTbook*
 - Latin Modern by the GUST e-foundry
-
-The name is a nod to the typographic hoax island of San Serriffe.
 
 ## License
 
