@@ -1,4 +1,4 @@
-# San Serriffe for Omarchy
+# San Serriffe
 
 An academic, warm-light theme for [Omarchy](https://omarchy.org), inspired by Donald Knuth's work in algorithms, typography, and literate programming.
 
