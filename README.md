@@ -27,8 +27,6 @@ The font is recommended, but not required. Omarchy applies the theme's colors to
 - Editorial red: `#AF3029`
 - Muted ink: `#705F4C`
 
-San Serriffe is an original palette. It does not inherit or require Flexoki.
-
 ## References
 
 - Donald E. Knuth, James H. Morris Jr., and Vaughan R. Pratt, “Fast Pattern Matching in Strings” (1977)
