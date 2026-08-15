@@ -2,7 +2,7 @@
 
 An academic, warm-light theme for [Omarchy](https://omarchy.org), inspired by Donald Knuth's work in algorithms, typography, and literate programming.
 
-The wallpaper brings together the failure function of Knuth–Morris–Pratt over `ABRACADABRA` and a large constructed **Q** drawn like a METAFONT glyph. The palette uses cream paper, dark ink, and restrained editorial red.
+The wallpaper brings together the failure function of Knuth–Morris–Pratt over `ABRACADABRA` and an original constructed **Q** inspired by METAFONT's visual language and glyph-design process. It is not a reproduction of a METAFONT or Computer Modern glyph. The palette uses cream paper, dark ink, and restrained editorial red.
 
 ![San Serriffe desktop](preview.png)
 
