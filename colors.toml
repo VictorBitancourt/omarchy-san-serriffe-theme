@@ -1,0 +1,38 @@
+mode = "light"
+
+# Accent: deep red/maroon from TAOCP Vol. 1 covers
+accent = "#AF3029"
+selection = "#DCC9A5"
+muted = "#705F4C"
+
+# Paper and ink
+background = "#EFE3CD"
+dark_background = "#E3D4BA"
+darker_background = "#D7C6A8"
+lighter_background = "#EADCC3"
+
+foreground = "#2B2318"
+dark_foreground = "#705F4C"
+light_foreground = "#544738"
+bright_foreground = "#1A150E"
+
+# Semantic palette — each primary maps to a TAOCP volume:
+#   red     = Vol. 1, Fundamental Algorithms
+#   green   = Vol. 2, Seminumerical Algorithms
+#   blue    = Vol. 3, Sorting and Searching
+#   magenta = Vol. 4A, Combinatorial Algorithms
+red = "#AF3029"
+green = "#4A7A40"
+yellow = "#AD8301"
+blue = "#205EA6"
+magenta = "#7B3FA0"
+cyan = "#24837B"
+orange = "#BC5215"
+brown = "#6B4423"
+
+bright_red = "#C44536"
+bright_green = "#5C9A50"
+bright_yellow = "#C79B18"
+bright_blue = "#3A7BD5"
+bright_magenta = "#9855C0"
+bright_cyan = "#30A098"
