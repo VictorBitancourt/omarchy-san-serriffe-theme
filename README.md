@@ -6,6 +6,26 @@ The wallpaper brings together the failure function of Knuth–Morris–Pratt ove
 
 ![San Serriffe desktop](preview.png)
 
+## Wallpaper
+
+![San Serriffe KMP and constructed Q wallpaper](backgrounds/01-kmp-metafont.png)
+
+## Color palette
+
+![San Serriffe color palette](assets/palette.svg)
+
+## Editors
+
+San Serriffe is rendered in editors through Omarchy Quattro's native templates. Both screenshots show the same working [CWEB implementation of KMP](examples/kmp.w), successfully processed with CTANGLE and CWEAVE.
+
+### VS Code
+
+![San Serriffe in VS Code with a CWEB implementation of KMP](assets/screenshots/vscode-cweb.png)
+
+### LazyVim
+
+![San Serriffe in LazyVim with a CWEB implementation of KMP](assets/screenshots/lazyvim-cweb.png)
+
 ## Install
 
 ```sh

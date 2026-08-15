@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="260" viewBox="0 0 1800 260" role="img" aria-labelledby="title description">
+  <title id="title">San Serriffe color palette</title>
+  <desc id="description">Twelve color swatches ranging from editorial red and warm paper tones to ink and supporting syntax colors.</desc>
+  <rect width="1800" height="260" fill="#EFE3CD"/>
+  <g>
+    <path fill="#AF3029" d="M0 0h150v190H0z"/>
+    <path fill="#BC5215" d="M150 0h150v190H150z"/>
+    <path fill="#AD8301" d="M300 0h150v190H300z"/>
+    <path fill="#4A7A40" d="M450 0h150v190H450z"/>
+    <path fill="#24837B" d="M600 0h150v190H600z"/>
+    <path fill="#205EA6" d="M750 0h150v190H750z"/>
+    <path fill="#7B3FA0" d="M900 0h150v190H900z"/>
+    <path fill="#2B2318" d="M1050 0h150v190h-150z"/>
+    <path fill="#544738" d="M1200 0h150v190h-150z"/>
+    <path fill="#705F4C" d="M1350 0h150v190h-150z"/>
+    <path fill="#DCC9A5" d="M1500 0h150v190h-150z"/>
+    <path fill="#EFE3CD" stroke="#D7C6A8" stroke-width="2" d="M1650 0h150v190h-150z"/>
+  </g>
+  <g fill="#2B2318" font-family="Latin Modern Mono, monospace" font-size="19" text-anchor="middle">
+    <text x="75" y="224">RED</text><text x="75" y="248">#AF3029</text>
+    <text x="225" y="224">ORANGE</text><text x="225" y="248">#BC5215</text>
+    <text x="375" y="224">YELLOW</text><text x="375" y="248">#AD8301</text>
+    <text x="525" y="224">GREEN</text><text x="525" y="248">#4A7A40</text>
+    <text x="675" y="224">CYAN</text><text x="675" y="248">#24837B</text>
+    <text x="825" y="224">BLUE</text><text x="825" y="248">#205EA6</text>
+    <text x="975" y="224">MAGENTA</text><text x="975" y="248">#7B3FA0</text>
+    <text x="1125" y="224">INK</text><text x="1125" y="248">#2B2318</text>
+    <text x="1275" y="224">LIGHT INK</text><text x="1275" y="248">#544738</text>
+    <text x="1425" y="224">MUTED</text><text x="1425" y="248">#705F4C</text>
+    <text x="1575" y="224">SELECTION</text><text x="1575" y="248">#DCC9A5</text>
+    <text x="1725" y="224">PAPER</text><text x="1725" y="248">#EFE3CD</text>
+  </g>
+</svg>
